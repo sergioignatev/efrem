@@ -1,0 +1,1 @@
+.main{display:grid;grid-template-columns:auto auto;height:100vh}.main img{height:53vh;width:100%;margin-top:-4px}.main__unit{position:relative}@media (max-width: 800px){.main{grid-template-columns:auto}.main img{height:25vh}}*{max-width:100%;margin:0;padding:0;box-sizing:border-box}
